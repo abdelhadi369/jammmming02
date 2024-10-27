@@ -2,6 +2,7 @@
   "name": "jammmming02",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abdelhadi369.github.io/jammmming02",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,6 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  },
-  "homepage": "https://abdelhadi369.github.io/jammmming02"
+  }
+  
 }
